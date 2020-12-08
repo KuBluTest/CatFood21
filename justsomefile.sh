@@ -7,3 +7,5 @@ email_password="This1IsSecure!!"
 another_password="9675ouyfOUYF*&$"
 
 onemore_password="98764(&^iuyKUYTTF"
+
+maurice_password="BenIsThe#1!"
